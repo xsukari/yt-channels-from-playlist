@@ -11,7 +11,7 @@ It's python script, it is run by following these steps:
 5. Execute "source venv/bin/activate" on Linux or "venv\Scripts\activate" on Windows
 6. Execute "pip install pytube"
 7. Run the following: ``` python main.py "put_playlist_url_here" ```
-8. Your playlist will be processed, the result will be written to "results.txt" in the script folder (where main.py is located)
+8. Your playlist will be processed, the result will be written to "channels.txt" in the script folder (where main.py is located)
 
 ### Already did the initial setup?
 
