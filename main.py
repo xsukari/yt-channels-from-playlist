@@ -24,7 +24,7 @@ for video in playlist.videos:
 
 endTime = time.time()
 
-print(f"\nFetched {len(channels)} channel in {math.floor(endTime - startTime)} seconds")
+print(f"\nFetched {len(channels)} channels in {math.floor(endTime - startTime)} seconds")
 
 fileName = "channels.txt"
 
