@@ -24,3 +24,7 @@ It's python script, it is run by following these steps:
 1. You didn't follow the steps correctly, f. e. you didn't put the playlist url within quotation marks
 2. Youtube messed something up
 3. Youtube changed their API and the package I'm using to read youtube content (pytube) is outdated
+
+### When you are done
+
+1. Just close the command line or execute "deactivate"
